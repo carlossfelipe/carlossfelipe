@@ -113,11 +113,11 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://wiki.thema.inf.br/wiki/upload/2014/7/java1-15165951.png" 
+    src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" 
 />
 
 <img 
