@@ -41,6 +41,14 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     style="padding-right: 10px;" 
     src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
 />
+<img 
+    align="left" 
+    alt="nodejs" 
+    title="node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
+/>
 <br/>
 <br/>
 
