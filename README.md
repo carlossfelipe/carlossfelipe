@@ -12,7 +12,7 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" 
 />
@@ -33,7 +33,14 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="JS" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
+/>
 <br/>
 <br/>
 
