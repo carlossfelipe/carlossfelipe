@@ -46,7 +46,7 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     alt="nodejs" 
     title="node.js"
     width="60px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
 />
 <br/>
