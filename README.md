@@ -26,13 +26,21 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="react" 
+    title="react"
     width="20px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" 
 />
 
+<img 
+    align="left" 
+    alt="nodejs" 
+    title="node.js"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -43,11 +51,11 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
 />
 <img 
     align="left" 
-    alt="nodejs" 
-    title="node.js"
-    width="60px" 
+    alt="Java" 
+    title="Java"
+    width="20px" 
     style="padding-right: 10px;" 
-    src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
+    src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" 
 />
 <br/>
 <br/>
