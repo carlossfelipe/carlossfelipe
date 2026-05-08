@@ -26,6 +26,14 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
 />
 <img 
     align="left" 
+    alt="nodejs" 
+    title="node.js"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
+/>
+<img 
+    align="left" 
     alt="react" 
     title="react"
     width="30px" 
@@ -33,14 +41,6 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" 
 />
 
-<img 
-    align="left" 
-    alt="nodejs" 
-    title="node.js"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -55,7 +55,7 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     title="Java"
     width="20px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" 
 />
 <br/>
 <br/>
