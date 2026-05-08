@@ -30,7 +30,7 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     title="react"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" 
+    src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" 
 />
 
 <img 
