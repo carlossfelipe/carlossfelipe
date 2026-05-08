@@ -2,7 +2,7 @@
 
 **`Estudante de Tecnologia`**
 
-Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio no IFB, com o curso técnico em manutenção automotiva. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFB. Sou apaixonado por tecnologia especialmente por tudo que envolve programação, sistemas, inteligência artificial e o impacto que soluções digitais podem gerar na vida das pessoas. Busco constantemente aprender coisas novas, participar de projetos, me desafiar e evoluir tanto academicamente quanto profissionalmente.
+Me chamo Carlos Felipe, tenho 19 anos e nascido no DF. Concluí o ensino médio no IFB, com o curso técnico em manutenção automotiva. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFB. Sou apaixonado por tecnologia especialmente por tudo que envolve programação, sistemas, inteligência artificial e o impacto que soluções digitais podem gerar na vida das pessoas. Busco constantemente aprender coisas novas, participar de projetos, me desafiar e evoluir tanto academicamente quanto profissionalmente.
 
 
 ###  Linguagens e Tecnologias
