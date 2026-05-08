@@ -10,6 +10,22 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
 
 <img 
     align="left" 
+    alt="JS" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
+/>
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="20px" 
@@ -24,22 +40,6 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JS" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
 />
 <img 
     align="left" 
