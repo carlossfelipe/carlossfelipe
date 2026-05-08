@@ -53,7 +53,7 @@ Me chamo Carlos Felipe, tenho 18 anos e nascido no DF. Concluí o ensino médio 
     align="left" 
     alt="Java" 
     title="Java"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" 
 />
