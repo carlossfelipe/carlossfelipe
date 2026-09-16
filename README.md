@@ -1,62 +1,107 @@
-# 👩🏻‍💻 Carlos Felipe
+# 👨🏻‍💻 Carlos Felipe
 
-**`Estudante de Tecnologia`**
+**`Estudante de Tecnologia | Desenvolvedor Back-End`**
 
-Me chamo Carlos Felipe, tenho 19 anos e nascido no DF. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFB. Sou apaixonado por tecnologia especialmente por tudo que envolve programação, sistemas, inteligência artificial e o impacto que soluções digitais podem gerar na vida das pessoas. Busco constantemente aprender coisas novas, participar de projetos, me desafiar e evoluir tanto academicamente quanto profissionalmente.
+Olá! Me chamo Carlos Felipe e sou estudante de **Tecnologia em Sistemas para Internet (TSI) no IFB**.
 
+Tenho interesse em **desenvolvimento de software**, especialmente na área de **Back-End**, onde venho aprofundando meus conhecimentos em Java, Spring Boot, APIs REST e bancos de dados.
 
-###  Linguagens e Tecnologias
+Também tenho experiência com desenvolvimento Web utilizando JavaScript, TypeScript, React e Node.js. Gosto de aprender na prática, criando projetos e explorando diferentes conceitos de programação.
 
+Atualmente, estou buscando uma oportunidade de **estágio em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender com outros desenvolvedores e evoluir profissionalmente.
+
+### 🚀 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="JS" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="nodejs" 
-    title="node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174935.png" 
-/>
-<img 
-    align="left" 
-    alt="react" 
-    title="react"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" 
+ align="left" 
+ alt="Java" 
+ title="Java"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+ align="left" 
+ alt="Spring Boot" 
+ title="Spring Boot"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" 
+ align="left" 
+ alt="JavaScript" 
+ title="JavaScript"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+ align="left" 
+ alt="TypeScript" 
+ title="TypeScript"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Node.js" 
+ title="Node.js"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="React" 
+ title="React"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="PostgreSQL" 
+ title="PostgreSQL"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="MySQL" 
+ title="MySQL"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Git" 
+ title="Git"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 <br/>
 <br/>
 
+### 📌 Projetos em destaque
+
+* **API de Transações** — Java, Spring Boot, JPA e PostgreSQL.
+* **Monitor de Processos** — Java e OSHI para monitoramento de processos do sistema.
+* **CafeAnimes** — Next.js, TypeScript e integração com API externa.
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/carlos-felipe-spindula/) • [Portfólio](https://carlos-felipe-portfolio.vercel.app/)
