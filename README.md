@@ -99,7 +99,7 @@ Atualmente, estou buscando uma oportunidade de **estágio em Desenvolvimento de 
 ### 📌 Projetos em destaque
 
 * **API de Transações** — Java, Spring Boot, JPA e PostgreSQL.
-* **Monitor de Processos** — Java e OSHI para monitoramento de processos do sistema.
+* **Analisador de ações** — Java, Next.js, TypeScript.
 * **CafeAnimes** — Next.js, TypeScript e integração com API externa.
 
 ### 📫 Contato
